@@ -1,0 +1,16 @@
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\bin\Release\RechnerKomplex.exe.config
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\bin\Release\RechnerKomplex.exe
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\bin\Release\RechnerKomplex.pdb
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Release\RechnerKomplex.csproj.AssemblyReference.cache
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Release\RechnerKomplex.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Release\MainWindow.g.cs
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Release\App.g.cs
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Release\RechnerKomplex_MarkupCompile.cache
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Release\RechnerKomplex_MarkupCompile.lref
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Release\MainWindow.baml
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Release\RechnerKomplex.g.resources
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Release\RechnerKomplex.Properties.Resources.resources
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Release\RechnerKomplex.csproj.GenerateResource.cache
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Release\RechnerKomplex.csproj.CoreCompileInputs.cache
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Release\RechnerKomplex.exe
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Release\RechnerKomplex.pdb

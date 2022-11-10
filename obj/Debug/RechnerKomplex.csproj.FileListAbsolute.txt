@@ -1,0 +1,16 @@
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\bin\Debug\RechnerKomplex.exe.config
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\bin\Debug\RechnerKomplex.exe
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\bin\Debug\RechnerKomplex.pdb
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Debug\RechnerKomplex.csproj.AssemblyReference.cache
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Debug\RechnerKomplex.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Debug\MainWindow.g.cs
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Debug\App.g.cs
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Debug\RechnerKomplex_MarkupCompile.cache
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Debug\RechnerKomplex_MarkupCompile.lref
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Debug\MainWindow.baml
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Debug\RechnerKomplex.g.resources
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Debug\RechnerKomplex.Properties.Resources.resources
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Debug\RechnerKomplex.csproj.GenerateResource.cache
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Debug\RechnerKomplex.csproj.CoreCompileInputs.cache
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Debug\RechnerKomplex.exe
+C:\Users\lenna\Desktop\Neuer Ordner\RechnerKomplex\obj\Debug\RechnerKomplex.pdb
